@@ -20,3 +20,15 @@ function test() {
   console.log("notice the blank line before this function?");
 }
 ```
+
+Texto texto texto texto texto texto texto
+
+{% highlight javascript %}
+function sayHello(name) {
+  if (!name) {
+    console.log('Hello World');
+  } else {
+    console.log(`Hello ${name}`);
+  }  
+}  
+{% endhighlight %}
