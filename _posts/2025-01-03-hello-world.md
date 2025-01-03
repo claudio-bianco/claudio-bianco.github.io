@@ -8,6 +8,7 @@ categories: welcome
 # Meu sub-título
 Texto texto texto texto texto texto texto
 
+
 |Title  |Link  |
 |---|---|
 {% for my_post in site.posts -%}
@@ -15,6 +16,7 @@ Texto texto texto texto texto texto texto
 |{{ my_post.title }}  |[Click Here]({{ my_post.url }})  |
 {% endif %}
 {%- endfor -%}
+
 
 Texto texto texto texto texto texto texto
 
