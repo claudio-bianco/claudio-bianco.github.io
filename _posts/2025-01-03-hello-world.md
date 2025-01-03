@@ -16,8 +16,13 @@ Texto texto texto texto texto texto texto
 {% endif %}
 {%- endfor -%}
 
+Texto texto texto texto texto texto texto
 
 |Um  |Dois  |Tês  |
 |---|---|---|
 |ColunaA  |ColunaB  |ColunaC  |
 |ColunaA  |ColunaB  |ColunaC  |
+
+Texto texto texto texto texto texto texto
+
+
