@@ -7,3 +7,7 @@ categories: welcome
 ## Meu título
 # Meu sub-título
 Texto texto texto texto texto texto texto
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
