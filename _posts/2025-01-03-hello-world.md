@@ -26,3 +26,9 @@ function sayHello(name) {
   }
 }
 ```
+
+Example with language specified
+
+```bash
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+```
