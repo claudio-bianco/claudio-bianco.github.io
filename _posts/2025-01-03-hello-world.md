@@ -15,3 +15,9 @@ Texto texto texto texto texto texto texto
 |{{ my_post.title }}  |[Click Here]({{ my_post.url }})  |
 {% endif %}
 {%- endfor -%}
+
+
+|Um  |Dois  |Tês  |
+|---|---|---|
+|ColunaA  |ColunaB  |ColunaC  |
+|ColunaA  |ColunaB  |ColunaC  |
