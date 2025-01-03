@@ -25,4 +25,8 @@ Texto texto texto texto texto texto texto
 
 Texto texto texto texto texto texto texto
 
-
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
