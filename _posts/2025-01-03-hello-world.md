@@ -8,18 +8,6 @@ categories: welcome
 # Meu sub-título
 Texto texto texto texto texto texto texto
 
-
-|Title  |Link  |
-|---|---|
-{% for my_post in site.posts -%}
-{% if my_post.title -%}
-|{{ my_post.title }}  |[Click Here]({{ my_post.url }})  |
-{% endif %}
-{%- endfor -%}
-
-
-Texto texto texto texto texto texto texto
-
 |Um  |Dois  |Tês  |
 |---|---|---|
 |ColunaA  |ColunaB  |ColunaC  |
